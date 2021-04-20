@@ -1,0 +1,70 @@
+{
+    "amount": 1568,
+    "countGoods": 9,
+    "contents":
+
+        [{
+            "id": "1",
+            "title": "Кепка",
+            "price": 52.00,
+            "img": "img/catalog/prod1.png",
+            "quantity": 1
+        },
+        {
+            "id": "2",
+            "title": "Джинсы",
+            "price": 62.00,
+            "img": "img/catalog/prod2.png",
+            "quantity": 1
+        },
+        {
+            "id": "3",
+            "title": "Футболка",
+            "price": 72.00,
+            "img": "img/catalog/prod3.png",
+            "quantity": 1
+        },
+        {
+            "id": "4",
+            "title": "Куртка",
+            "price": 82.00,
+            "img": "img/catalog/prod4.png",
+            "quantity": 1
+        },
+        {
+            "id": "5",
+            "title": "Кеды",
+            "price": 92.00,
+            "img": "img/catalog/prod5.png",
+            "quantity": 1
+        },
+        {
+            "id": "6",
+            "title": "Брюки",
+            "price": 152.00,
+            "img": "img/catalog/prod6.png",
+            "quantity": 1
+        },
+        {
+            "id": "7",
+            "title": "Рубашка",
+            "price": 252.00,
+            "img": "img/catalog/prod6.png",
+            "quantity": 1
+        },
+        {
+            "id": "8",
+            "title": "Валенки",
+            "price": 352.00,
+            "img": "img/catalog/prod8.png",
+            "quantity": 1
+        },
+        {
+            "id": "9",
+            "title": "Кофта",
+            "price": 452.00,
+            "img": "img/catalog/prod9.png",
+            "quantity": 1
+        }
+    ]
+}
