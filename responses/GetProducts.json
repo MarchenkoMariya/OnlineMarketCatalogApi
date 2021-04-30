@@ -1,46 +1,55 @@
 [{
         "id": "1",
         "title": "Кепка",
-        "price": 52.00
+        "price": 52.00,
+        "img": "img/catalog/prod1.png"
     },
     {
         "id": "2",
         "title": "Джинсы",
-        "price": 62.00
+        "price": 62.00,
+        "img": "img/catalog/prod2.png"
     },
     {
         "id": "3",
         "title": "Футболка",
-        "price": 72.00
+        "price": 72.00,
+        "img": "img/catalog/prod3.png"
     },
     {
         "id": "4",
         "title": "Куртка",
-        "price": 82.00
+        "price": 82.00,
+        "img": "img/catalog/prod4.png"
     },
     {
         "id": "5",
         "title": "Кеды",
-        "price": 92.00
+        "price": 92.00,
+        "img": "img/catalog/prod5.png"
     },
     {
         "id": "6",
         "title": "Брюки",
-        "price": 152.00
+        "price": 152.00,
+        "img": "img/catalog/prod6.png"
     },
     {
         "id": "7",
         "title": "Рубашка",
-        "price": 252.00
+        "price": 252.00,
+        "img": "img/catalog/prod7.png"
     },
     {
         "id": "8",
         "title": "Валенки",
-        "price": 352.00
+        "price": 352.00,
+        "img": "img/catalog/prod8.png"
     },
     {
         "id": "9",
         "title": "Кофта",
-        "price": 452.00
+        "price": 452.00,
+        "img": "img/catalog/prod9.png"
     }
 ]
